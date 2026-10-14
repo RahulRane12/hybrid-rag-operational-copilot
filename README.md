@@ -4,6 +4,8 @@
 > **Pioneered automated root-cause attribution linking delivery transit delays and SKU returns with review text sentiment, isolating catalog measurement errors.**  
 > **Automated diagnostic memo synthesis with LLM workflows, cutting cross-functional investigation cycles by 70% and preventing GMV return loss.**
 
+📖 **Comprehensive Business Guide**: [Read the Complete Real-World Business Use Case, Cross-Functional Impact & Interview Cheatsheet](BUSINESS_USE_CASE.md)
+
 ---
 
 ## 🎯 Executive Overview
